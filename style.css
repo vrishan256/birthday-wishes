@@ -1,0 +1,24 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#my_canvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: darkviolet;
+    background-image:url(BirthdayImage.jpg);
+}
+
+#dear_mom{
+   color: blue; 
+}
+
+
+
+ 
+ 
+  
+
